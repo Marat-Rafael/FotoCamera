@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">FotoCamera</string>
+    <string name="iniciar_camera">Iniciar Camera</string>
+</resources>
